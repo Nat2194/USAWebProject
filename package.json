@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "curl": "^0.1.4",
+    "express": "^4.18.1",
+    "knex": "^2.3.0",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "advancedwebprograming_assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nat2194/UsaWebProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nat2194/UsaWebProject/issues"
+  },
+  "homepage": "https://github.com/Nat2194/UsaWebProject#readme",
+  "description": ""
+}
